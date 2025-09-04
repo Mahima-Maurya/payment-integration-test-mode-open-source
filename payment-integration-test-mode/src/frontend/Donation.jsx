@@ -81,6 +81,11 @@ const Donation = () => {
                 <small className="impactText">
                   Provides clothing for a family
                 </small>
+
+                <small className="impactText">
+                  Provides clothing for a family
+                </small>
+                
               </div>
             </div>
           </div>
