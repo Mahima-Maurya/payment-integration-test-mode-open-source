@@ -17,7 +17,7 @@
 
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Donation from "./frontend/Donation";
+import Donation from "./Donation";
 
 
 const App = () => {
